@@ -8,5 +8,5 @@ https://www.lammertbies.nl/comm/info/crc-calculation
 
 Author: J. Chen. Feb, 2020
 
-ps. The CRC-CCITT (0xFFFF) version can be obtained by replace crc = 0 at line 11 to
+ps. The CRC-CCITT (0xFFFF) version can be obtained by replacing crc = 0 at line 11 to
 crc = hex2dec('FFFF')
