@@ -10,3 +10,6 @@ Author: J. Chen. Feb, 2020
 
 ps. The CRC-CCITT (0xFFFF) version can be obtained by replacing crc = 0 at line 11 to
 crc = hex2dec('FFFF')
+
+[![View CRC-16 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74249-crc-16)
+
